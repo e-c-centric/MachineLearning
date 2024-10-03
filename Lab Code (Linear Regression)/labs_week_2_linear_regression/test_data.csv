@@ -1,0 +1,6 @@
+Size of Plot (sq. meters),Distance from Airport (km),Proximity to Main Road (km),Proximity to City Center (km),Land Price (GHS)
+600.0,5.0,1.0,10,10000.0
+800.0,10.0,2.0,20,20000.0
+,15.0,3.0,30,30000.0
+1000.0,,4.0,40,40000.0
+1200.0,25.0,,50,
